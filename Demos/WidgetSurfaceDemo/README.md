@@ -1,5 +1,7 @@
 # Widget Surface Demo
 
+> Package documentation: [English](../../README.md) · [简体中文](../../Documentation/zh-Hans/README.md) · [繁體中文](../../Documentation/zh-Hant/README.md) · [日本語](../../Documentation/ja/README.md) · [한국어](../../Documentation/ko/README.md)
+
 This demo applies a separate policy to compact cards while keeping the same
 normalization engine as the reading surface.
 

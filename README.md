@@ -1,5 +1,7 @@
 # KLAdaptiveSurface
 
+> Languages: [English](README.md) · [简体中文](Documentation/zh-Hans/README.md) · [繁體中文](Documentation/zh-Hant/README.md) · [日本語](Documentation/ja/README.md) · [한국어](Documentation/ko/README.md)
+
 `KLAdaptiveSurface` turns a sampled image color into a readable surface without applying a fixed light or dark overlay. The policy can leave an already clean color untouched, normalize only colors that cross a configured threshold, and choose a foreground using the resulting background rather than the device appearance.
 
 The package is deliberately independent from wondays. It accepts a `CGColor`,
